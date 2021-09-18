@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\Onra2\Onra2 Color Picker\Onra2 Color Picker\bin\Release\Onra2 Color Picker.exe.config
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\Onra2\Onra2 Color Picker\Onra2 Color Picker\bin\Release\Onra2 Color Picker.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\Onra2\Onra2 Color Picker\Onra2 Color Picker\bin\Release\Onra2 Color Picker.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\Onra2\Onra2 Color Picker\Onra2 Color Picker\bin\Release\MaterialSkin.dll
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\Onra2\Onra2 Color Picker\Onra2 Color Picker\obj\Release\Onra2_Color_Picker.Main.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\Onra2\Onra2 Color Picker\Onra2 Color Picker\obj\Release\Onra2_Color_Picker.Properties.Resources.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\Onra2\Onra2 Color Picker\Onra2 Color Picker\obj\Release\Onra2 Color Picker.csproj.GenerateResource.cache
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\Onra2\Onra2 Color Picker\Onra2 Color Picker\obj\Release\Onra2 Color Picker.csproj.CopyComplete
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\Onra2\Onra2 Color Picker\Onra2 Color Picker\obj\Release\Onra2 Color Picker.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\Onra2\Onra2 Color Picker\Onra2 Color Picker\obj\Release\Onra2 Color Picker.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\Onra2\Onra2 Color Picker\Onra2 Color Picker\obj\Release\Onra2 Color Picker.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\Visual Studio 2017\Projects\Onra2\Onra2 Color Picker\Onra2 Color Picker\obj\Release\Onra2 Color Picker.csproj.CoreCompileInputs.cache
